@@ -1,0 +1,25 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .header h1 {
+    font-size: 1.8rem;
+    letter-spacing: 2px;
+  }
+  
+  .header nav a {
+    margin: 0 1rem;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .header nav a:hover {
+    color: #ff6f61;
+  }
+  

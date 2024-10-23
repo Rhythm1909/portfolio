@@ -1,0 +1,25 @@
+.experience {
+    padding: 2rem;
+    background-color: #f9f9f9;
+  }
+  
+  .experience h2 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .experience ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .experience li {
+    margin: 1.5rem 0;
+    font-size: 1.2rem;
+    color: #555;
+  }
+  
+  .experience li strong {
+    font-weight: bold;
+  }
+  
